@@ -1,0 +1,12 @@
+{
+  "name": "todo-app-node-pg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_ENV=development PORT=4000 node server.js"
+  },
+  "author": "Azhar Zafar <az9four@gmail.com>",
+  "license": "MIT"
+}
